@@ -3,10 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1519627932933">
+      <file name="/Dummy.txt" timestamp="1522176651166">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1519628318001">
+      <file name="/code.py" timestamp="1522176351657">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1522176543422">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Bash" timestamp="1522176675196">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/MLFinance/venv/bin/test.py" timestamp="1519628294220">
@@ -19,7 +25,12 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
     <editor>
       <key-repeat enabled="false" />
