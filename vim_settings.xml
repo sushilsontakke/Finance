@@ -3,6 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/codes/graphOp.py" timestamp="1535063107822">
+        <mark key="'" line="43" column="23" />
+        <mark key="[" line="43" column="24" />
+        <mark key="]" line="45" column="58" />
+        <mark key="n" line="26" column="15" />
+        <mark key="." line="45" column="58" />
+        <mark key="^" line="45" column="58" />
+      </file>
       <file name="/Dummy.txt" timestamp="1522176651166">
         <mark key="[" line="0" column="0" />
       </file>
@@ -19,8 +27,17 @@
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="43" column="23" filename="$USER_HOME$/PycharmProjects/codes/graphOp.py" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>edge</text>
+      </register>
+      <register name="-" type="4">
+        <text>edge</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
