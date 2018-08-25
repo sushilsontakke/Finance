@@ -11,6 +11,12 @@
         <mark key="." line="45" column="58" />
         <mark key="^" line="45" column="58" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/codes/stringOp.py" timestamp="1535163003642">
+        <mark key="[" line="11" column="43" />
+        <mark key="]" line="11" column="42" />
+        <mark key="^" line="11" column="42" />
+        <mark key="." line="11" column="42" />
+      </file>
       <file name="/Dummy.txt" timestamp="1522176651166">
         <mark key="[" line="0" column="0" />
       </file>
@@ -31,8 +37,11 @@
       <jump line="43" column="23" filename="$USER_HOME$/PycharmProjects/codes/graphOp.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>edge</text>
+      <register name="1" type="2">
+        <text />
+      </register>
+      <register name="&quot;" type="2">
+        <text />
       </register>
       <register name="-" type="4">
         <text>edge</text>
