@@ -11,12 +11,6 @@
         <mark key="." line="45" column="58" />
         <mark key="^" line="45" column="58" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/codes/stringOp.py" timestamp="1535163003642">
-        <mark key="[" line="11" column="43" />
-        <mark key="]" line="11" column="42" />
-        <mark key="^" line="11" column="42" />
-        <mark key="." line="11" column="42" />
-      </file>
       <file name="/Dummy.txt" timestamp="1522176651166">
         <mark key="[" line="0" column="0" />
       </file>
@@ -37,42 +31,77 @@
         <mark key="]" line="4" column="16" />
         <mark key="." line="4" column="16" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/codes/py4e/payCalculator" timestamp="1535303798243">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/codes/py4e/tupleSort.py" timestamp="1535314249035">
+        <mark key="[" line="24" column="13" />
+        <mark key="]" line="24" column="13" />
+        <mark key="." line="24" column="13" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/codes/py4e/dicts.py" timestamp="1535313503840">
+        <mark key="[" line="29" column="21" />
+        <mark key="]" line="29" column="21" />
+        <mark key="." line="29" column="21" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/MLFinance/venv/bin/test.py" timestamp="1519628294220">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/codes/codingbat/sleep_in.py" timestamp="1535315136330">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="25" />
+        <mark key="^" line="20" column="25" />
+        <mark key="." line="20" column="25" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/codes/stringOp.py" timestamp="1535163003642">
+        <mark key="[" line="11" column="43" />
+        <mark key="]" line="11" column="42" />
+        <mark key="^" line="11" column="42" />
+        <mark key="." line="11" column="42" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/codes/py4e/stringexercise.py" timestamp="1535305216031">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Bash" timestamp="1522176675196">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/codes/py4e/payCalculator" timestamp="1535303798243">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/MLFinance/venv/bin/test.py" timestamp="1519628294220">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="43" column="23" filename="$USER_HOME$/PycharmProjects/codes/graphOp.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/codes/codingbat/sleep_in.py" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text>if</text>
       </register>
-      <register name="1" type="2">
-        <text />
+      <register name="1" type="4">
+        <text encoding="base64">aWYgY291bnQgPiBtYXh2YWx1ZToKICAgICAgICBtYXh2YWx1ZSA9IGNvdW50CiAgICAgICAgY29tbW9ud29yZCA9IHdvcmQ=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>: avg(numlist) else: 0</text>
+        <text>w</text>
+      </register>
+      <register name="2" type="2">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>: avg(numlist) else: 0</text>
+        <text>w</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxUaGVcPg==</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxUaGVcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxUaGVcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxUaGVcPg==</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
