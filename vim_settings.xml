@@ -20,10 +20,22 @@
       <file name="/Dummy.txt" timestamp="1522176651166">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/codes/py4e/numberAggr.py" timestamp="1535305067265">
+        <mark key="[" line="35" column="53" />
+        <mark key="]" line="35" column="53" />
+        <mark key="^" line="35" column="39" />
+        <mark key="." line="35" column="53" />
+      </file>
       <file name="/code.py" timestamp="1522176351657">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1522176543422">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/codes/py4e/fileopener.py" timestamp="1535305676346">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/codes/py4e/stringexercise.py" timestamp="1535305216031">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Bash" timestamp="1522176675196">
@@ -40,14 +52,17 @@
       <jump line="43" column="23" filename="$USER_HOME$/PycharmProjects/codes/graphOp.py" />
     </jumps>
     <registers>
+      <register name="0" type="4">
+        <text>if</text>
+      </register>
       <register name="1" type="2">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text />
+      <register name="&quot;" type="4">
+        <text>: avg(numlist) else: 0</text>
       </register>
       <register name="-" type="4">
-        <text>edge</text>
+        <text>: avg(numlist) else: 0</text>
       </register>
     </registers>
     <search>
