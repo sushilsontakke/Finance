@@ -23,7 +23,7 @@
       <file name="/code.py" timestamp="1522176351657">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1522176543422">
+      <file name="/Python Console" timestamp="1535408454468">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/codes/py4e/fileopener.py" timestamp="1535307507253">
@@ -43,6 +43,12 @@
         <mark key="[" line="29" column="21" />
         <mark key="]" line="29" column="21" />
         <mark key="." line="29" column="21" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/codes/questions/listOperations.py" timestamp="1535409251059">
+        <mark key="a" line="9" column="13" />
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/MLFinance/venv/bin/test.py" timestamp="1519628294220">
         <mark key="[" line="0" column="0" />
@@ -66,6 +72,13 @@
       <file name="/Bash" timestamp="1522176675196">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/codes/questions/substringCounter.py" timestamp="1535409138755">
+        <mark key="a" line="16" column="25" />
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/codes/questions/validIpchecker.py" timestamp="1535405990855">
         <mark key="[" line="12" column="23" />
         <mark key="]" line="12" column="22" />
@@ -85,13 +98,13 @@
         <text encoding="base64">aWYgY291bnQgPiBtYXh2YWx1ZToKICAgICAgICBtYXh2YWx1ZSA9IGNvdW50CiAgICAgICAgY29tbW9ud29yZCA9IHdvcmQ=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>w</text>
+        <text>list:</text>
       </register>
       <register name="2" type="2">
         <text />
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>list:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGVcPg==</text>
