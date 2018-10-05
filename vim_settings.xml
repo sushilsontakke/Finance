@@ -39,6 +39,11 @@
         <mark key="]" line="24" column="13" />
         <mark key="." line="24" column="13" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/codes/py4e/Tree.py" timestamp="1538713691295">
+        <mark key="[" line="34" column="18" />
+        <mark key="]" line="34" column="18" />
+        <mark key="." line="34" column="18" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/codes/py4e/dicts.py" timestamp="1535313503840">
         <mark key="[" line="29" column="21" />
         <mark key="]" line="29" column="21" />
@@ -104,13 +109,13 @@
         <text encoding="base64">aWYgY291bnQgPiBtYXh2YWx1ZToKICAgICAgICBtYXh2YWx1ZSA9IGNvdW50CiAgICAgICAgY29tbW9ud29yZCA9IHdvcmQ=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>list:</text>
+        <text>root</text>
       </register>
       <register name="2" type="2">
         <text />
       </register>
       <register name="-" type="4">
-        <text>list:</text>
+        <text>root</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGVcPg==</text>
