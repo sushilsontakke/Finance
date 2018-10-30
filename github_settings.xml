@@ -1,0 +1,6 @@
+<application>
+  <component name="GithubSettings">
+    <option name="HOST" value="github.corp.ebay.com" />
+    <option name="AUTH_TYPE" value="TOKEN" />
+  </component>
+</application>
